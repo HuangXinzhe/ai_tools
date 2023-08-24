@@ -1,0 +1,16 @@
+--project_name/
+----data/：数据
+----checkpoints/：保存训练好的模型
+----logs/：日志
+----model_hub/：预训练模型权重
+--------chinese-bert-wwm-ext/：
+----utils/：辅助模块，可以是日志、评价指标计算等等
+--------utils.py
+--------metrics.py
+----model.py
+----config.py
+----data_loader.py
+----main.py：主程序，包含训练、验证、测试和预测
+----test.py：用于测试
+----requirements.txt：保存项目所需环境配置
+----README.md：项目有关信息
