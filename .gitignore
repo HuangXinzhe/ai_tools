@@ -161,7 +161,11 @@ cython_debug/
 
 # Mac
 .idea/
+.DS_Store
 */.DS_Store
 
 # Project
-/tensorboard_tutorial/tensorboard_pytorch/data/
+/tensorboard_tutorial/tensorboard_pytorch/cifar_10_ipnnb/data/
+/tensorboard_tutorial/tensorboard_pytorch/cifar_10_py/data/
+/tensorboard_tutorial/tensorboard_pytorch/cifar_10_ipnnb/runs/
+/tensorboard_tutorial/tensorboard_pytorch/cifar_10_py/runs/
