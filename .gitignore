@@ -169,3 +169,5 @@ cython_debug/
 /tensorboard_tutorial/tensorboard_pytorch/cifar_10_py/data/
 /tensorboard_tutorial/tensorboard_pytorch/cifar_10_ipnnb/runs/
 /tensorboard_tutorial/tensorboard_pytorch/cifar_10_py/runs/
+myself.md
+/wandb_tutorial/wandb

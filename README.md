@@ -8,3 +8,7 @@
   - tensorboard使用笔记（pytorch官方教程）
     - cifar_10_ipynb：jupyter notebook版本，pytorch官方教程
     - cifar_10_py：pytorch官方教程转换为py文件，以项目形式呈现
+- 上传并分享自己的结果
+  - tensorboard dev upload --logdir runs \
+    --name "My latest experiment" \ # optional
+    --description "Simple comparison of several hyperparameters" # optional
