@@ -163,6 +163,7 @@ cython_debug/
 .idea/
 .DS_Store
 */.DS_Store
+.vscode
 
 # Project
 /tensorboard_tutorial/tensorboard_pytorch/cifar_10_ipnnb/data/
@@ -171,3 +172,4 @@ cython_debug/
 /tensorboard_tutorial/tensorboard_pytorch/cifar_10_py/runs/
 myself.md
 /wandb_tutorial/wandb
+/bing_search/config.py
