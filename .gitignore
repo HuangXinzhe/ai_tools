@@ -173,3 +173,4 @@ cython_debug/
 myself.md
 /wandb_tutorial/wandb
 /bing_search/config.py
+wandb_tutorial/wandb_video_tutorial/mnist
