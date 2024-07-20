@@ -164,6 +164,7 @@ cython_debug/
 .DS_Store
 */.DS_Store
 .vscode
+.env
 
 # Project
 /tensorboard_tutorial/tensorboard_pytorch/cifar_10_ipnnb/data/
